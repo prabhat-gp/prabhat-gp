@@ -2,15 +2,16 @@
 <h3 align="center">Building systems at scale: Next.js, Apigee and microservices at Honeywell Aerospace</h3>
 
 <p align="center">
-  <a href="https://prabhatgp.me"><img src="https://img.shields.io/badge/prabhatgp.me-portfolio-ff5a2a?style=flat" alt="Portfolio" /></a>
   <img src="https://komarev.com/ghpvc/?username=prabhat-gp&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-- 🛠️ **IT Engineer II at Honeywell Aerospace**, re-architecting SAP's legacy monolith into microservices with Next.js and Apigee
+- 🛠️ **IT Engineer II** at Honeywell Aerospace
 - 📊 Built a data validation framework that scales to **10M+ rows** ([Data_Validation-POC](https://github.com/prabhat-gp/Data_Validation-POC))
-- ☁️ Previously at Honeywell Technologies: AWS and Azure provisioning pipelines through ServiceNow and GitHub Actions, and 12+ automations saving 300+ engineering hours a month
-- 📈 After hours: swing trading, vibecoding random ideas, and taking good pictures
-- 📫 Reach me at **pgprabhat2025@gmail.com**
+- 🚀 Creator of **[sd-for-rookies.tech](https://sd-for-rookies.tech)**: system design, animated
+- 🌐 Portfolio: **[prabhatgp.me](https://prabhatgp.me)**
+- ☁️ Previously automated AWS and Azure provisioning at Honeywell Technologies
+- 📈 After hours: trading, vibecoding and photography
+- 📫 pgprabhat2025@gmail.com
 
 ### Connect with me
 
